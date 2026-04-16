@@ -1,31 +1,38 @@
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%E2%9C%85%20Coding%20minimalist%20web%20solutions%20%E2%9C%85%20%20exploring%20the%20tech%20world.&fontSize=26&fontColor=00000&fontAlign=50&fontAlignY=76&stroke=-&strokeWidth=0&animation=fadeIn&desc=%F0%9F%91%8B%20Hi,%20I'm%20Muhammed%20&descSize=24&descAlign=50&descAlignY=32&color=32583F" />
-</div>
+<a href="https://github.com/muhammedakboga00">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%E2%9C%85%20Coding%20minimalist%20web%20solutions%20%E2%9C%85%20%20exploring%20the%20tech%20world.&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=76&stroke=-&strokeWidth=0&animation=fadeIn&desc=%F0%9F%91%8B%20Hi,%20I'm%20Muhammed%20&descSize=24&descAlign=50&descAlignY=32&color=32583F" />
+</a>
 
-<img align="left" height="450" src="https://raw.githubusercontent.com/muhammedakboga00/assets/main/me_with_ai_1024.jpg" />
+<a href="https://github.com/muhammedakboga00">
+  <img align="left" height="450" src="https://raw.githubusercontent.com/muhammedakboga00/assets/main/me_with_ai_1024.jpg" />
+</a>
 
 <h3 align="center">Technologies & Tools</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" /><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp" /><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" /><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase" /><img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" /><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="firebase" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  <a href="https://github.com/muhammedakboga00">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" /><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp" /><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" /><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase" /><img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" /><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" alt="firebase" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  </a>
 </div>
 
 <h3 align="center">Creative Studio & Post-Production</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="ae" /><img src="https://skillicons.dev/icons?i=pr" height="60" alt="pr" /><img src="https://skillicons.dev/icons?i=ps" height="60" alt="ps" /><img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai" /><img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender" />
+  <a href="https://github.com/muhammedakboga00">
+    <img src="https://skillicons.dev/icons?i=ae" height="60" alt="ae" /><img src="https://skillicons.dev/icons?i=pr" height="60" alt="pr" /><img src="https://skillicons.dev/icons?i=ps" height="60" alt="ps" /><img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai" /><img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender" />
+  </a>
 </div>
 
 <br clear="both">
 
-<div>
+<a href="https://github.com/muhammedakboga00">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Technical%20Product%20Architect&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&desc=Designing%20Scalable%20Digital%20Ecosystems&descSize=24&descAlign=50&descAlignY=79&textBg=false&color=32583F" />
-</div>
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Flow%20Sync%20and%20The%20Flow%20Nexus&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&desc=2.5K+%20Users%20%7C%2040+%20Countries&descSize=24&descAlign=50&descAlignY=79&textBg=false&color=32583F" />
-</div>
+</a>
 
-<div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=110&section=header&reversal=false&text=Get%20in%20Touch&fontSize=70&fontColor=00000&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Do%20you%20have%20a%20new%20project%20idea%20or%20just%20want%20to%20say%20hello?%20Contact%20me.&descSize=20&descAlign=0&descAlignY=85&textBg=false&color=32583F" />
-</div>
+<a href="https://github.com/muhammedakboga00">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&reversal=false&text=Flow%20Sync%20and%20The%20Flow%20Nexus&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&desc=2.5K+%20Users%20%7C%2040+%20Countries&descSize=24&descAlign=50&descAlignY=79&textBg=false&color=32583F" />
+</a>
+
+<a href="https://github.com/muhammedakboga00">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=110&section=header&reversal=false&text=Get%20in%20Touch&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Do%20you%20have%20a%20new%20project%20idea%20or%20just%20want%20to%20say%20hello?%20Contact%20me.&descSize=20&descAlign=0&descAlignY=85&textBg=false&color=32583F" />
+</a>
 
 <div align="center">
   <br />
@@ -37,12 +44,16 @@
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedakboga00&theme=tokyonight&background=0D1117&ring=32583F&fire=32583F&stroke=32583F&hide_border=true" width="1000" />
+  <a href="https://github.com/muhammedakboga00">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedakboga00&theme=tokyonight&background=0D1117&ring=32583F&fire=32583F&stroke=32583F&hide_border=true" width="1000" />
+  </a>
 
   <br /><br />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="1000" style="max-width: 100%; height: auto;" />
-  </picture>
+  <a href="https://github.com/muhammedakboga00">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="1000" style="max-width: 100%; height: auto;" />
+    </picture>
+  </a>
 </div>
